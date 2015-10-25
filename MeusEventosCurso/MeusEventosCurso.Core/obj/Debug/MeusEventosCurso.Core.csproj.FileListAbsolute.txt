@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\MeusEventosCurso\MeusEventosCurso.Core\bin\Debug\MeusEventosCurso.Core.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\MeusEventosCurso\MeusEventosCurso.Core\bin\Debug\MeusEventosCurso.Core.pdb
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\MeusEventosCurso\MeusEventosCurso.Core\obj\Debug\MeusEventosCurso.Core.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\MeusEventosCurso\MeusEventosCurso.Core\obj\Debug\MeusEventosCurso.Core.dll
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\MeusEventosCurso\MeusEventosCurso.Core\obj\Debug\MeusEventosCurso.Core.pdb

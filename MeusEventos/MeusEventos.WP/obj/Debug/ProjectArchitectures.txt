@@ -1,0 +1,1 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\MeusEventos\MeusEventos.WP\MeusEventos.WP.csproj;neutral
